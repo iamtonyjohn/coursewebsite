@@ -77,15 +77,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 # Home Page
 ![Screenshot 2024-07-10 111216](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/cb793c0a-3451-442a-9545-088c587a04ad)
 
-![Screenshot 2024-07-10 111232](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/ddca589f-ec47-4c4a-b348-c5efee0820![Screenshot 2024-07-10 111249](https://github.com/iamtonyjohn/cours![Screenshot 2024-07-10 112511](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/b097cc72-f257-45d7-842d-5053aa42a970)
-ewebsite/assets/138686875/defb6cf1-6947-47a9-8d2c-8a14cdab119b)
-98)![Screenshot 2024-07-10 112535](https://gi![Screenshot 2024-07-10 112551](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/2e174fde-853b-4de8-8a0f-ca40ade606c5)
-thub.com/iamtonyjohn/coursewebsite/assets/138686875/2ed83d35-34e4-461f-ab3a-294535f11a28)
-![Screenshot 2024-07-![Screenshot 2024-07-10 112128]![Screenshot 2024-07-10 112319](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/ae2b130d-994f-4aac-a113-5295f511b386)
-(https://github.com/iamtonyjohn/coursewebsite/assets/138686875/4bff9037-0c1a-4ef0-9811-f7a0dbb3def7)
-1![Screenshot 2024-07-10 112253](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/14e1cc71-7445-493d-a788-902a0b3bf06d)
-0 112331](https://github.com/iamt![Screenshot 2024-07-10 112306](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/6e46489d-2cc6-4096-b27c-b3ae5d5e105f)
-onyjohn/coursewebsite/assets/138686875/d3117e42-c33e-45d5-837f-eed1c910d7ff)
+![Screenshot 2024-07-10 111232](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/25a77da5-cd09-480f-8ffb-45fddb9c5f28)
+![Screenshot 2024-07-10 111249](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/a1892d05-0ca7-43d5-9060-1f6370864ec6)
+
+
+![Screenshot 2024-07-10 112551](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/c16ef1e1-8a27-4332-9cae-227e12697401)
+![Screenshot 2024-07-10 112535](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/12052969-7f92-46a8-9cdc-19701804e386)
+![Screenshot 2024-07-10 112511](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/ad42a625-0eb9-4aca-b36d-c2a71cd51bc7)
+
+
+![Screenshot 2024-07-10 112331](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/9ef50594-3df8-4cf5-9819-147ff9fa2969)
+![Screenshot 2024-07-10 112319](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/d6671ca3-e2d6-4423-9136-5fe3a9151d7b)
+![Screenshot 2024-07-10 112306](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/99620268-fe55-4d7e-a341-0006c99d9c7f)
+![Screenshot 2024-07-10 112253](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/a4b337df-6224-4d9a-9b33-c466c25956f5)
+![Screenshot 2024-07-10 112128](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/eab850f0-339f-487a-81c5-e8cba78970e0)
 
 
 
