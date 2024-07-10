@@ -73,6 +73,11 @@ We welcome contributions from the community. To contribute, please fork the repo
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+![Screenshot 2024-07-10 111249](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/3a9add67-4fd0-44f4-ba9d-3a2880608238)
+![Screenshot 2024-07-10 111232](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/40eb74eb-ed10-443b-99cc-b5fbd0993461)
+![Screenshot 2024-07-10 111216](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/ec341210-33ca-4899-9d07-863e0188e60c)
+
 ![Screenshot 2024-07-10 112511](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/1f8bd14b-2f47-43ea-9ae8-ff554623efa1)
 ![Screenshot 2024-07-10 112331](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/0c002be8-3a06-4256-ad09-9118aa45453a)
 ![Screenshot 2024-07-10 112319](https://github.com/iamtonyjohn/coursewebsite/assets/138686875/c21bf44c-6a16-46ee-a5e1-b294ffd64dea)
